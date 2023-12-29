@@ -56,5 +56,3 @@ This project showcases the process of cleaning, enhancing, and analyzing the IMD
 For further details on the SQL queries, procedures, triggers, and views, refer to the SQL scripts provided in this repository.
 
 
---Repo Link: https://github.com/AHMEDNASR281/SQL-QUERIES-PROJECT-/tree/main
-
