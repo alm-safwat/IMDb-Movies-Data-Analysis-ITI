@@ -1,4 +1,4 @@
-# IMDb Movies Data Analysis Project 
+# IMDb Movies Data Analysis Project
 
 ## Overview
 
